@@ -23,6 +23,8 @@ Transitions for interactive button and link hover effects.
 
 Font Awesome: Professional iconography for the search, location, and cart elements.
 
+
+
 📸 Project Structure
 Plaintext
 ├── Css files/
@@ -37,10 +39,16 @@ Plaintext
 │   └── signin.html       # Sign-in Portal
 └── images/               # Local asset storage
 🚀 Getting Started
+
+
+
 Clone the repository:
 
 Bash
 git clone https://github.com/your-username/amazon-clone.git
+
+
+
 Open the Project:
 Navigate to the Html files folder and open index.html in your favorite browser.
 
