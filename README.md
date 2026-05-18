@@ -1,3 +1,8 @@
+
+Deployed Link :- https://amazoniwt.netlify.app/
+
+
+
 📦 Amazon UI Clone
 A feature-rich, pixel-perfect frontend recreation of the Amazon web ecosystem. This project demonstrates advanced CSS techniques including Flexbox, CSS Grid, and Keyframe Animations to provide a seamless shopping and streaming UI experience.
 
