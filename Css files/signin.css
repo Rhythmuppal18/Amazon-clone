@@ -1,0 +1,37 @@
+body {
+    font-family: Arial;
+    background-color: #f2f2f2;
+}
+
+.login-box {
+    width: 280px;
+    margin: 80px auto;
+    background: rgb(213, 1, 1);
+    padding: 15px;
+    border: 1px solid #ccc;
+    
+}
+
+
+
+h2 {
+    margin-bottom: 10px;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+}
+
+button {
+    width: 100%;
+    background: #f0c14b;
+    border: 1px solid #a88734;
+    padding: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #ddb347;
+}
+

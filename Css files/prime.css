@@ -1,0 +1,111 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #0f171e;
+    color: white;
+   
+}
+
+/* NAVBAR */
+.navbar {
+    background-color: #1b2530;
+    display: flex;
+    align-items: center;
+    padding: 12px 20px;
+}
+
+.logo {
+    font-size: 22px;
+    font-weight: bold;
+    color: #00a8e1;
+   
+}
+
+.menu {
+    margin-left: 30px;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 14px;
+}
+
+.menu a:hover {
+    color: #00a8e1;
+}
+/* Hero section */
+.hero {
+    background-color: #16202d;
+    padding: 40px 22px;
+    background-image: url(../images/today.png);
+    background-size: cover;
+    
+}
+
+.hero h1 {
+    font-size: 36px;
+    
+}
+
+.hero p {
+    font-size: 16px;
+    margin: 15px 0;
+}
+
+.hero a {
+    background-color: #00a8e1;
+    border: none;
+    padding: 12px 25px;
+    font-size: 16px;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.hero button:hover {
+    background-color: #008ec4;
+}
+
+/* MOVIE ROW */
+.section-title {
+    margin: 20px;
+}
+
+.movies {
+    display: flex;
+    gap:15px;
+    padding: 0 20px 30px;
+    justify-content: center;
+}
+
+.movie {
+    background-color: #2a3644;
+    width: 180px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+}
+.m1{
+    background-image: url(../images/movie1.jpg);
+    background-size: cover;
+    cursor: pointer;
+}
+.m2{
+    background-image: url(../images/movie2.jpg);
+    background-size: cover;
+    cursor: pointer;
+}
+.m3{
+    background-image: url(../images/movie3.jpg);
+    background-size: cover;
+    cursor: pointer;
+}
+.m4{
+    background-image: url(../images/movie4.jpg);
+    background-size: cover;
+    cursor: pointer;
+}
